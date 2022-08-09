@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohamad11011
-- 👀 I’m interested in Computer Science Field  
+- 👀 I’m a Computer Science (Graduated with a Bachelor Degree from my University).
 - 🌱 I’m currently learning new languages to develope my abilities.
-- 💞️ I’m looking to collaborate on projects where I can improve and grow my skills more.
+- 💞️ I’m looking to collaborate in any projects where I can improve and grow my skills more.
 - 📫 Reach me with my mail: mohamadhassan11011@gmail.com
 
 <!---
