@@ -3,7 +3,7 @@
 <img src="https://github.com/Mohamad11011/Mohamad11011/blob/main/Mohamad%20Hassan.png"  alt="Mohamad-Hassan-WebDev">
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)](https://github.com/Mohamad11011) [![GitHub followers](https://img.shields.io/github/followers/Mohamad11011.svg?style=social&label=Follow)](https://github.com/Mohamad11011?tab=followers)
+
 <p>
 I'm a **Mohamad Hassan** and I'm passionate to show my abilities in **Web Developement** and everything related to it.Always looking for the opportuinity to develop my skills and gain more experience.
 I currently live in **Beirut,Lebanon** 🇱🇧 .
