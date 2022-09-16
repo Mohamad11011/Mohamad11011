@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Mohamad11011
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
+- 👋 Hi, I’m Mohamad
 - 👀 I’m a Computer Science (Graduated with a Bachelor Degree from my University).
 - 🌱 I’m currently learning new languages to develope my abilities.
 - 💞️ I’m looking to collaborate in any projects where I can improve and grow my skills more.
@@ -27,7 +28,7 @@
 
 </p>
 
-**Database used: **
+**Database used:**
 <p>
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&style=flat" />
    <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat" />
