@@ -43,11 +43,8 @@ Some of my Skills:
 </p>
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=thivagar-manickam&count_private=true&theme=radical&show_icons=true" />
-
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thivagar-manickam&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad11011&layout=compact"
 />
 
 <!---
