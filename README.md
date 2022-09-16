@@ -3,8 +3,10 @@
 <img src="https://github.com/Mohamad11011/Mohamad11011/blob/main/Mohamad%20Hassan.png"  alt="Mohamad-Hassan-WebDev">
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
+<p>
 I'm a **Mohamad Hassan** and I'm passionate to show my abilities in **Web Developement** and everything related to it.Always looking for the opportuinity to develop my skills and gain more experience.
 I currently live in **Beirut,Lebanon** 🇱🇧 .
+</p>
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/moh11011/">LinkedIn</a> 💼
