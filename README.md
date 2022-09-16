@@ -5,8 +5,8 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
 
 <p>
-I'm a **Mohamad Hassan** and I'm passionate to show my abilities in **Web Developement** and everything related to it.Always looking for the opportuinity to develop my skills and gain more experience.
-I currently live in **Beirut,Lebanon** 🇱🇧 .
+I'm a Mohamad and I'm passionate to show my abilities in Web Developement and everything related to it.Always looking for the opportuinity to develop my skills and gain more experience.
+I currently live in Beirut,Lebanon 🇱🇧 .
 </p>
 
 ## 🌎 Find me around the web 
@@ -17,7 +17,7 @@ I currently live in **Beirut,Lebanon** 🇱🇧 .
 
 ## ✨ Current situation
 
-- 🔭 Lately engaged with DgPad intensive training programs to gain more experience from Pro-colleagues.
+- 🔭 Lately engaged with DgPad intensive training programs to gain more experience from Pro-Colleagues.
 - 🌱 I’m currently trying to learn more programming languages.
 - 🏃 Sport fact: My Favourite Sport is Football⚽.I am an RealMadrid Fan #Hala_Madrid ⚽.
 
