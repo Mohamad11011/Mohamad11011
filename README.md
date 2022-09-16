@@ -13,6 +13,7 @@ Some of my Skills:
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+  <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg?logo=javascript&logoColor=white&style=flat" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img alt="Jquery" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img alt="TypeScript" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
