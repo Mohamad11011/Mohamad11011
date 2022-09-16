@@ -3,16 +3,24 @@
 <img src="https://github.com/Mohamad11011/Mohamad11011/blob/main/Mohamad%20Hassan.png"  alt="Mohamad-Hassan-WebDev">
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
-- 👋 Hi, I’m Mohamad
-- 👀 I’m a Computer Science (Graduated with a Bachelor Degree from my University).
-- 🌱 I’m currently learning new languages to develope my abilities.
-- 💞️ I’m looking to collaborate in any projects where I can improve and grow my skills more.
+I'm a **Mohamad Hassan** and I'm passionate to show my abilities in **Web Developement** and everything related to it.Always looking for the opportuinity to develop my skills and gain more experience.
+I currently live in **Beirut,Lebanon** 🇱🇧 .
+
+## 🌎 Find me around the web 
+- Sharing updates on <a href="https://www.linkedin.com/in/moh11011/">LinkedIn</a> 💼
 - 📫 Reach me with my mail: mohamadhassan11011@gmail.com
 
 
-**Have worked in:**
+
+## ✨ Current situation
+
+- 🔭 Lately engaged with DgPad intensive training programs to gain more experience from Pro-colleagues.
+- 🌱 I’m currently trying to learn more programming languages.
+- 🏃 Sport fact: My Favourite Sport is Football⚽.I am an RealMadrid Fan #Hala_Madrid ⚽.
+
+
+## 👨🏻‍💻 Programming Languages
 <p>
-  
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
@@ -21,10 +29,9 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
-  
 </p>
 
-**Frameworks & Library used:**
+## 💻 Framework and Libraries
 <p>
   <img alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=flat" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
@@ -32,7 +39,7 @@
 
 </p>
 
-**Database used:**
+## 💾 Databases
 <p>
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&style=flat" />
    <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat" />
@@ -40,7 +47,7 @@
 </p>
 
 
-**Version Control and Development tools used:**
+## ⚙️ Version Control and Development tools used:
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
