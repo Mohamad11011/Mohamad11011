@@ -12,6 +12,8 @@ Some of my Skills:
 **Have worked in:**
 <p>
   <img alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=flat" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=flat" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="Jquery" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
@@ -37,19 +39,10 @@ Some of my Skills:
 
 **Operating System familiar with:**
 <p>
-  <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
-<br><br>
-<div align="center">
- <div>
-   <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thivagar-manickam&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="thivagar-manickam" />
-   </p>
-  </div>
- </div>
-<br><h2></h2><br>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=thivagar-manickam&count_private=true&theme=radical&show_icons=true" />
 
