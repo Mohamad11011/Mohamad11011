@@ -1,3 +1,7 @@
+# Hi, I'm Mohamad 👋 🏃 💻
+
+<img src="https://raw.githubusercontent.com/kasuken/kasuken/master/BannerGitHub.png" alt="Emanuele Bartolesi - software engineer, content creator and community organizer">
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
 - 👋 Hi, I’m Mohamad
 - 👀 I’m a Computer Science (Graduated with a Bachelor Degree from my University).
