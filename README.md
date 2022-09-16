@@ -1,4 +1,4 @@
-# Hi, I'm Mohamad 👋 🏃 💻
+# Hi, I'm Mohamad 👋 💻
 
 <img src="https://github.com/Mohamad11011/Mohamad11011/blob/main/Mohamad%20Hassan.png"  alt="Mohamad-Hassan-WebDev">
 
