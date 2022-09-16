@@ -7,20 +7,25 @@
 
 **Have worked in:**
 <p>
-  <img alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=flat" />
-  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=flat" />
+  
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-  <img alt="Jquery" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=flat" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
   
 </p>
+
+**Frameworks & Library used:**
 <p>
+  <img alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=flat" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
+  <img alt="Font" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white&style=flat"/>
+  
+  
 </p>
 
 **Version Control and Development tools used:**
