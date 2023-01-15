@@ -64,7 +64,8 @@ I currently live in Beirut,Lebanon 🇱🇧 .
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
-**Languages:**
+**![image](https://user-images.githubusercontent.com/107344706/212539073-4b607212-6b41-4f57-9176-6f4de22f6260.png)
+Languages:**
 <p>
   Arabic Native Language
   English Fluent
