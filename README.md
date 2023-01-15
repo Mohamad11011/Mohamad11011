@@ -64,10 +64,11 @@ I currently live in Beirut,Lebanon 🇱🇧 .
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad11011&layout=compact"
-/>
+**Languages:**
+<p>
+  Arabic Native Language
+  English Fluent
+</p>
 
 <!---
 Mohamad11011/Mohamad11011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
