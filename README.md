@@ -46,6 +46,7 @@ I currently live in Beirut,Lebanon 🇱🇧 .
 <p>
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&style=flat" />
    <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDb-005C84?style=for-the-badge&logo=MongoDb&logoColor=white&style=flat" />
   
 </p>
 
