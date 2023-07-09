@@ -11,13 +11,14 @@ I currently live in Beirut,Lebanon 🇱🇧 .
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/moh11011/">LinkedIn</a> 💼
+- Get in touch through my portfolio: <a href="https://mohamad-hassan-portfolio.vercel.app"/> Portfolio</a> 
 - 📫 Reach me with my mail: mohamadhassan11011@gmail.com
 
 
 
 ## ✨ Current situation
 
-- 🔭 Lately engaged with DgPad intensive training programs to gain more experience from Pro-Colleagues.
+- 🔭 Started with a intensive Bootcamp training program to gain more experience.
 - 🌱 I’m currently trying to learn more programming languages.
 - 🏃 Sport fact: My Favourite Sport is Football⚽.I am an RealMadrid Fan #Hala_Madrid ⚽.
 
