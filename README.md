@@ -11,7 +11,7 @@ I currently live in Beirut,Lebanon 🇱🇧 .
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/moh11011/">LinkedIn</a> 💼
-- Get in touch through my portfolio: <a href="https://mohamad-hassan-portfolio.vercel.app"/> Portfolio</a> 
+- Get in touch through my <a href="https://mohamad-hassan-portfolio.vercel.app"/> Portfolio</a> 
 - 📫 Reach me with my mail: mohamadhassan11011@gmail.com
 
 
