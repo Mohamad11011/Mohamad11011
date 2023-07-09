@@ -5,7 +5,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
 
 <p>
-I'm a Mohamad and I'm passionate to show my abilities in Web Developement and everything related to it.Always looking for the opportuinity to develop my skills and gain more experience.
+I am a passionate web developer who is eager to learn and grow in this field. Always ready for collaboration and communication with team members as this leads to the team success.
 I currently live in Beirut,Lebanon 🇱🇧 .
 </p>
 
@@ -25,8 +25,6 @@ I currently live in Beirut,Lebanon 🇱🇧 .
 
 ## 👨🏻‍💻 Programming Languages
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=flat" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
