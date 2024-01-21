@@ -59,12 +59,9 @@ Want to know more about me? Check out my <a href="https://mohamadhassan.com"> Po
 <br>
 
 <a href="">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad11011&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad11011&theme=tokyonight" />
 </a>
 
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad11011&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
 
 <a href="">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mohamad11011&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt=""/>
