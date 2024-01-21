@@ -1,26 +1,18 @@
-# Hi, I'm Mohamad 👋 💻
-
 <img src="https://github.com/Mohamad11011/Mohamad11011/blob/main/Mohamad%20Hassan.png"  alt="Mohamad-Hassan-WebDev">
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
 
 <p>
-I am a passionate web developer who is eager to learn and grow in this field. Always ready for collaboration and communication with team members as this leads to the team success.
-I currently live in Beirut,Lebanon 🇱🇧 .
+Mohamad, senior web developer, passionate about cutting-edge trends. Dedicated to refining skills for stellar web experiences through continuous learning and embracing the latest technologies.
+Want to know more about me? Check out my <a href="https://mohamadhassan.com"> Portfolio</a> 
 </p>
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/moh11011/">LinkedIn</a> 💼
-- Get in touch through my <a href="https://mohamad-hassan-portfolio.vercel.app"/> Portfolio</a> 
+- Get in touch through my <a href="https://mohamadhassan.com"/> Portfolio</a> 
 - 📫 Reach me with my mail: mohamadhassan11011@gmail.com
 
 
-
-## ✨ Current situation
-
-- 🔭 Started with a intensive Bootcamp training program to gain more experience.
-- 🌱 I’m currently trying to learn more programming languages.
-- 🏃 Sport fact: My Favourite Sport is Football⚽.I am an RealMadrid Fan #Hala_Madrid ⚽.
 
 
 ## 👨🏻‍💻 Programming Languages
