@@ -1,7 +1,7 @@
 <img src="https://github.com/Mohamad11011/Mohamad11011/assets/107344706/fda929f7-4864-4dd8-8357-c27fde522e6e"  alt="Mohamad-Hassan-WebDev">
 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011&right_color=purple&left_text=Visitors)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/moh11011/)
 <p>
 Mohamad, senior web developer, passionate about cutting-edge trends. Dedicated to refining skills for stellar web experiences through continuous learning and embracing the latest technologies.
