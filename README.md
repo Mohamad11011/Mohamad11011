@@ -64,7 +64,7 @@ Want to know more about me? Check out my <a href="https://mohamadhassan.com"> Po
 
 
 <a href="">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mohamad11011&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt=""/>
+  <img align="center" style="margin-left:20px;" src="https://github-readme-stats.vercel.app/api?username=mohamad11011&show_icons=true&line_height=40&count_private=true&theme=tokyonight" alt=""/>
 </a>
 
 
