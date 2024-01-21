@@ -19,8 +19,8 @@ Want to know more about me? Check out my <a href="https://mohamadhassan.com"> Po
 ## 👨🏻‍💻 Programming Languages
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=flat" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=flat" />
+  <img alt="Next" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&style=flat" />
   <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=flat" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
