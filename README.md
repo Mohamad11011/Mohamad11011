@@ -2,7 +2,7 @@
 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/moh11011/)
 <p>
 Mohamad, senior web developer, passionate about cutting-edge trends. Dedicated to refining skills for stellar web experiences through continuous learning and embracing the latest technologies.
 Want to know more about me? Check out my <a href="https://mohamadhassan.com"> Portfolio</a> 
