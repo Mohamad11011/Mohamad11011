@@ -1,5 +1,5 @@
-<img src="https://github.com/Mohamad11011/Mohamad11011/blob/main/Mohamad%20Hassan.png"  alt="Mohamad-Hassan-WebDev">
-![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/Mohamad11011/Mohamad11011/assets/107344706/fda929f7-4864-4dd8-8357-c27fde522e6e)
+<img src="https://github.com/Mohamad11011/Mohamad11011/assets/107344706/fda929f7-4864-4dd8-8357-c27fde522e6e"  alt="Mohamad-Hassan-WebDev">
+![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/Mohamad11011/Mohamad11011/)
 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011)
