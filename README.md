@@ -56,16 +56,15 @@ Want to know more about me? Check out my <a href="https://mohamadhassan.com"> Po
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
+<div class="row">
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad11011&theme=one-dark-pro&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=450&fire=EBC440&dates=EBBC1B&background=1A1B27" alt="GitHub Streak" />
+<br/>
+<img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad11011&theme=tokyonight&layout=compact" />
 
-<a href="">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad11011&theme=tokyonight" />
-</a>
+</div>
 
 
-<a href="">
-  <img align="center" style="margin-left:20px;" src="https://github-readme-stats.vercel.app/api?username=mohamad11011&show_icons=true&line_height=40&count_private=false&theme=tokyonight" alt=""/>
-</a>
 
 
 ## 🌐 Languages:
