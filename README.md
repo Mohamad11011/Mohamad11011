@@ -1,59 +1,60 @@
-<img src="https://github.com/Mohamad11011/Mohamad11011/assets/107344706/fda929f7-4864-4dd8-8357-c27fde522e6e"  alt="Mohamad-Hassan-WebDev">
+# 👋 Hi, I'm **Mohamad Hassan**
+### 👨‍💻 Front-End Engineer | 4+ Years of Experience
+
+A results-driven front-end developer focused on building responsive, accessible, and SEO-optimized web applications using **Next.js**, **React**, and **Tailwind CSS**. I specialize in translating high-fidelity **Figma** designs into scalable, maintainable code with a deep emphasis on user experience and performance.
+
+🎯 Skilled in client communication, cross-team collaboration, and delivering modern solutions that balance aesthetics with functionality — whether it's for marketing sites, dashboards,newsrooms, or full-scale platforms. Experienced in building and managing **monorepos** for modular architecture and better team scalability.
 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mohamad11011&right_color=purple&left_text=Visitors)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/moh11011/)
-<p>
-Mohamad, senior web developer, passionate about cutting-edge trends. Dedicated to refining skills for stellar web experiences through continuous learning and embracing the latest technologies.
-Want to know more about me? Check out my <a href="https://mohamadhassan.com"> Portfolio</a> 
-</p>
+---
 
-## 🌎 Find me around the web 
-- Sharing updates on <a href="https://www.linkedin.com/in/moh11011/">LinkedIn</a> 💼
-- Get in touch through my <a href="https://mohamadhassan.com"/> Portfolio</a> 
-- 📫 Reach me with my mail: mohamadhassan11011@gmail.com
+## 🚀 About Me
+
+- 🔭 **Currently Working On:**  
+  Scaling front-end architectures and refining UI/UX for web platforms using **Next.js**, **TypeScript**, and **Tailwind CSS**.
+
+- 🌱 **Always Exploring:**  
+  I keep up with the latest front-end tech stacks, modern development workflows, and newly released **AI integrations and productivity helpers**.
+
+- ⚡ **Fun Fact:**  
+  I love turning sleek **Figma** designs into responsive, real-world user interfaces that work flawlessly across devices.
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/moh11011/)  
+- 👤 [Portfolio](https://mohamadhassan.com)
+- 📬 [Email](mohamadhassan1101@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 **Core & Frameworks**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+
+### 🎨 **UI / UX & Styling**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Css](https://img.shields.io/badge/CSS-639?logo=css&style=for-the-badge&logoColor=white&color=red)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge&logo=mui&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🚀 SEO & Performance Tools
+
+<img src="https://img.shields.io/badge/PageSpeed%20Insights-4285F4?logo=pagespeedinsights&logoColor=fff&style=for-the-badge" alt="PageSpeed Insights Badge"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff&style=for-the-badge" alt="Google Analytics Badge"> <img src="https://img.shields.io/badge/Google%20Search%20Console-34A853?logo=google&logoColor=fff&style=for-the-badge" alt="Google Search Console Badge"> <img src="https://img.shields.io/badge/SEO%20Optimization-0A66C2?logo=searchengineland&logoColor=fff&style=for-the-badge" alt="SEO Optimization Badge"> <img src="https://img.shields.io/badge/Structured%20Data%20Schema.org-FF9800?logo=scheme&logoColor=fff&style=for-the-badge" alt="Structured Data Badge"> <img src="https://img.shields.io/badge/Sitemap%20Generator-FF5722?logo=sitemap&logoColor=fff&style=for-the-badge" alt="Sitemap Generator Badge">
 
 
+### 🔧 **Build & Tooling**
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)  
+
+### 🔌 **Backend / CMS / API**
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)  ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)  ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge&labelColor=white&logoColor=green)
 
 
-## 👨🏻‍💻 Programming Skills
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=flat" />
-  <img alt="Next" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&style=flat" />
-</p>
-<p>
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=flat" />
-</p>
-<p>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
-  <img alt="Font" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white&style=flat"/>
-</p>
-<p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=flat" />
-  <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe_XD-DA1F26?style=for-the-badge&logo=adobe&logoColor=white&style=flat" />
-  <img alt="Framer" src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white&style=flat" />
-</p>
+### 📋 **Project Management & Communication**
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  ![Google Meet](https://img.shields.io/badge/Google%20Meet-34A853?style=for-the-badge&logo=google-meet&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&style=for-the-badge&logoColor=white)
 
-<p>
-   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&style=flat" />
-   <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat" />
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDb-005C84?style=for-the-badge&logo=MongoDb&logoColor=white&style=flat" />
-  
-</p>
+---
 
-## ⚙️ Version Control and Development tools used:
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
-</p>
-
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
 <div class="row">
  
@@ -63,15 +64,35 @@ Want to know more about me? Check out my <a href="https://mohamadhassan.com"> Po
 
 </div>
 
+---
+
+## 📜 Certifications
+
+### 🧠 Google UX Design Certification  
+
+📐 Proudly **Google-certified in UI/UX Design**, with a strong foundation in visual hierarchy, interaction design, and usability best practices. [🎓 View Certification](https://www.credly.com/badges/4f7cac4a-62de-4a2d-8d9b-dea164a3775a/public_url) 
+ 
+[![Google UX Design Certification](https://github.com/user-attachments/assets/046fd0a4-dc60-4e49-b3fd-021df1e6ad5f)](https://www.credly.com/badges/4f7cac4a-62de-4a2d-8d9b-dea164a3775a/public_url)
+
+
+---
+
+## 🗣️ Languages
+
+- **Arabic:** Native  
+- **English:** Fluent
+
+---
 
 
 
-## 🌐 Languages:
-<p>
-  🚩 Arabic Native Language
-  <br/>
-  🚩 English Fluent
-</p>
+## 💡 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+
 
 <!---
 Mohamad11011/Mohamad11011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
