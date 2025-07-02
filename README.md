@@ -58,7 +58,7 @@ A results-driven full stack developer focused on building responsive, accessible
 
 <div class="row">
  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad11011&theme=one-dark-pro&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=450&fire=EBC440&dates=EBBC1B&background=1A1B27" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad11011&border_radius=5&theme=tokyonight&fire=EBC440" alt="GitHub Streak" />
 <br/>
 <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad11011&theme=tokyonight&layout=compact" />
 
