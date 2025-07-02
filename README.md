@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Mohamad Hassan**
-### 👨‍💻 Front-End Engineer | 4+ Years of Experience
+### 👨‍💻 Full Stack Developer | 3+ Years of Experience
 
-A results-driven front-end developer focused on building responsive, accessible, and SEO-optimized web applications using **Next.js**, **React**, and **Tailwind CSS**. I specialize in translating high-fidelity **Figma** designs into scalable, maintainable code with a deep emphasis on user experience and performance.
+A results-driven full stack developer focused on building responsive, accessible, and SEO-optimized web applications using **Next.js**, **React**, and **Tailwind CSS**. I specialize in translating high-fidelity **Figma** designs into scalable, maintainable code with a deep emphasis on user experience and performance.
 
 🎯 Skilled in client communication, cross-team collaboration, and delivering modern solutions that balance aesthetics with functionality — whether it's for marketing sites, dashboards,newsrooms, or full-scale platforms. Experienced in building and managing **monorepos** for modular architecture and better team scalability.
 
@@ -23,7 +23,7 @@ A results-driven front-end developer focused on building responsive, accessible,
 
 ## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/moh11011/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamadhassan6798/)  
 - 👤 [Portfolio](https://mohamadhassan.com)
 - 📬 [Email](mohamadhassan1101@gmail.com)
 
