@@ -1,8 +1,6 @@
 # 👋 Hi, I'm **Mohamad Hassan**
 ### 👨‍💻 Full Stack Software Developer | 4+ Years of Experience
 
-👨‍💻 Full Stack Developer | 4+ Years of Experience
-
 A results-driven full stack developer focused on building scalable, high-performance, and AI-enhanced web applications using .NET Core, Next.js, React, TypeScript, and Tailwind CSS / SCSS. I specialize in translating high-fidelity Figma designs into maintainable code with a strong emphasis on user experience, performance, and SEO.
 
 🎯 Experienced in microservices architecture, Docker-based deployments, CI/CD workflows (GitLab/GitHub), and cloud platforms like AWS and Google Cloud. Skilled in integrating AI-driven workflows, media automation, and smart content generation to enhance both developer productivity and user experience.
