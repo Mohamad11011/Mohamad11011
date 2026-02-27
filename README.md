@@ -1,9 +1,13 @@
 # 👋 Hi, I'm **Mohamad Hassan**
-### 👨‍💻 Full Stack Developer | 3+ Years of Experience
+### 👨‍💻 Full Stack Software Developer | 4+ Years of Experience
 
-A results-driven full stack developer focused on building responsive, accessible, and SEO-optimized web applications using **Next.js**, **React**, and **Tailwind CSS**. I specialize in translating high-fidelity **Figma** designs into scalable, maintainable code with a deep emphasis on user experience and performance.
+👨‍💻 Full Stack Developer | 4+ Years of Experience
 
-🎯 Skilled in client communication, cross-team collaboration, and delivering modern solutions that balance aesthetics with functionality — whether it's for marketing sites, dashboards,newsrooms, or full-scale platforms. Experienced in building and managing **monorepos** for modular architecture and better team scalability.
+A results-driven full stack developer focused on building scalable, high-performance, and AI-enhanced web applications using .NET Core, Next.js, React, TypeScript, and Tailwind CSS / SCSS. I specialize in translating high-fidelity Figma designs into maintainable code with a strong emphasis on user experience, performance, and SEO.
+
+🎯 Experienced in microservices architecture, Docker-based deployments, CI/CD workflows (GitLab/GitHub), and cloud platforms like AWS and Google Cloud. Skilled in integrating AI-driven workflows, media automation, and smart content generation to enhance both developer productivity and user experience.
+
+💡 Adept at client communication, cross-team collaboration, and delivering modern solutions that balance aesthetics, functionality, and scalability — from dashboards and newsrooms to full-scale media platforms. Experienced in managing monorepos and modular architectures for team efficiency and long-term maintainability.
 
 
 ---
@@ -41,6 +45,10 @@ A results-driven full stack developer focused on building responsive, accessible
 
 <img src="https://img.shields.io/badge/PageSpeed%20Insights-4285F4?logo=pagespeedinsights&logoColor=fff&style=for-the-badge" alt="PageSpeed Insights Badge"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff&style=for-the-badge" alt="Google Analytics Badge"> <img src="https://img.shields.io/badge/Google%20Search%20Console-34A853?logo=google&logoColor=fff&style=for-the-badge" alt="Google Search Console Badge"> <img src="https://img.shields.io/badge/SEO%20Optimization-0A66C2?logo=searchengineland&logoColor=fff&style=for-the-badge" alt="SEO Optimization Badge"> <img src="https://img.shields.io/badge/Structured%20Data%20Schema.org-FF9800?logo=scheme&logoColor=fff&style=for-the-badge" alt="Structured Data Badge"> <img src="https://img.shields.io/badge/Sitemap%20Generator-FF5722?logo=sitemap&logoColor=fff&style=for-the-badge" alt="Sitemap Generator Badge">
 
+### 🤖 **AI Agentic Integration**
+![Cursor Badge](https://img.shields.io/badge/Cursor-FF6F61?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Badge](https://img.shields.io/badge/Claude-1B1F23?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP Badge](https://img.shields.io/badge/MCP-4B8BBE?style=for-the-badge&logo=ai&logoColor=white)
 
 ### 🔧 **Build & Tooling**
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)  
